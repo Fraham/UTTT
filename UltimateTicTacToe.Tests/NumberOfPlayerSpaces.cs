@@ -13,7 +13,7 @@ namespace UltimateTicTacToe.Tests
                 {Player.PositionState.Free, Player.PositionState.Free, Player.PositionState.Free},
                 {Player.PositionState.Free, Player.PositionState.Free, Player.PositionState.Free},
                 {Player.PositionState.Free, Player.PositionState.Free, Player.PositionState.Free},
-            });
+            }, null);
 
             var result = board.NumberOfPlayerSpaces();
 
@@ -27,7 +27,7 @@ namespace UltimateTicTacToe.Tests
                 {Player.PositionState.Opponent, Player.PositionState.Opponent, Player.PositionState.Opponent},
                 {Player.PositionState.Opponent, Player.PositionState.Opponent, Player.PositionState.Opponent},
                 {Player.PositionState.Opponent, Player.PositionState.Opponent, Player.PositionState.Opponent},
-            });
+            }, null);
 
             var result = board.NumberOfPlayerSpaces();
 
@@ -41,7 +41,7 @@ namespace UltimateTicTacToe.Tests
                 {Player.PositionState.Free, Player.PositionState.Free, Player.PositionState.Free},
                 {Player.PositionState.Opponent, Player.PositionState.Opponent, Player.PositionState.Opponent},
                 {Player.PositionState.Opponent, Player.PositionState.Opponent, Player.PositionState.Opponent},
-            });
+            }, null);
 
             var result = board.NumberOfPlayerSpaces();
 
@@ -55,7 +55,7 @@ namespace UltimateTicTacToe.Tests
                 {Player.PositionState.Player, Player.PositionState.Free, Player.PositionState.Free},
                 {Player.PositionState.Free, Player.PositionState.Free, Player.PositionState.Free},
                 {Player.PositionState.Free, Player.PositionState.Free, Player.PositionState.Free},
-            });
+            }, null);
 
             var result = board.NumberOfPlayerSpaces();
 
@@ -72,7 +72,7 @@ namespace UltimateTicTacToe.Tests
                 {Player.PositionState.Player, Player.PositionState.Player, Player.PositionState.Free},
                 {Player.PositionState.Free, Player.PositionState.Free, Player.PositionState.Free},
                 {Player.PositionState.Free, Player.PositionState.Free, Player.PositionState.Free},
-            });
+            }, null);
 
             var result = board.NumberOfPlayerSpaces();
 
@@ -90,7 +90,7 @@ namespace UltimateTicTacToe.Tests
                 {Player.PositionState.Player, Player.PositionState.Player, Player.PositionState.Player},
                 {Player.PositionState.Free, Player.PositionState.Free, Player.PositionState.Free},
                 {Player.PositionState.Free, Player.PositionState.Free, Player.PositionState.Free},
-            });
+            }, null);
 
             var result = board.NumberOfPlayerSpaces();
 
@@ -108,7 +108,7 @@ namespace UltimateTicTacToe.Tests
                 {Player.PositionState.Player, Player.PositionState.Player, Player.PositionState.Player},
                 {Player.PositionState.Player, Player.PositionState.Free, Player.PositionState.Free},
                 {Player.PositionState.Free, Player.PositionState.Free, Player.PositionState.Free},
-            });
+            }, null);
 
             var result = board.NumberOfPlayerSpaces();
 
