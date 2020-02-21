@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Projects\\UltimateTicTacToeCodeGame\\UltimateTicTacToe\\UltimateTicTacToe.csproj": {}
+  },
+  "projects": {
+    "c:\\Projects\\UltimateTicTacToeCodeGame\\UltimateTicTacToe\\UltimateTicTacToe.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Projects\\UltimateTicTacToeCodeGame\\UltimateTicTacToe\\UltimateTicTacToe.csproj",
+        "projectName": "UltimateTicTacToe",
+        "projectPath": "c:\\Projects\\UltimateTicTacToeCodeGame\\UltimateTicTacToe\\UltimateTicTacToe.csproj",
+        "packagesPath": "C:\\Users\\gpye\\.nuget\\packages\\",
+        "outputPath": "c:\\Projects\\UltimateTicTacToeCodeGame\\UltimateTicTacToe\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gpye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.1.217/chocolatey": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

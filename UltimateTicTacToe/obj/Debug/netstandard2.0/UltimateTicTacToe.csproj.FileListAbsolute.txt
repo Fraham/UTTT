@@ -1,0 +1,16 @@
+C:\Projects\UltimateTic-Tac-Toe\UltimateTicTacToeCodeGame\UltimateTicTacToe\bin\Debug\netstandard2.0\UltimateTicTacToe.deps.json
+C:\Projects\UltimateTic-Tac-Toe\UltimateTicTacToeCodeGame\UltimateTicTacToe\bin\Debug\netstandard2.0\UltimateTicTacToe.dll
+C:\Projects\UltimateTic-Tac-Toe\UltimateTicTacToeCodeGame\UltimateTicTacToe\bin\Debug\netstandard2.0\UltimateTicTacToe.pdb
+C:\Projects\UltimateTic-Tac-Toe\UltimateTicTacToeCodeGame\UltimateTicTacToe\obj\Debug\netstandard2.0\UltimateTicTacToe.csprojAssemblyReference.cache
+C:\Projects\UltimateTic-Tac-Toe\UltimateTicTacToeCodeGame\UltimateTicTacToe\obj\Debug\netstandard2.0\UltimateTicTacToe.AssemblyInfoInputs.cache
+C:\Projects\UltimateTic-Tac-Toe\UltimateTicTacToeCodeGame\UltimateTicTacToe\obj\Debug\netstandard2.0\UltimateTicTacToe.AssemblyInfo.cs
+C:\Projects\UltimateTic-Tac-Toe\UltimateTicTacToeCodeGame\UltimateTicTacToe\obj\Debug\netstandard2.0\UltimateTicTacToe.dll
+C:\Projects\UltimateTic-Tac-Toe\UltimateTicTacToeCodeGame\UltimateTicTacToe\obj\Debug\netstandard2.0\UltimateTicTacToe.pdb
+c:\Projects\UltimateTicTacToeCodeGame\UltimateTicTacToe\bin\Debug\netstandard2.0\UltimateTicTacToe.deps.json
+c:\Projects\UltimateTicTacToeCodeGame\UltimateTicTacToe\bin\Debug\netstandard2.0\UltimateTicTacToe.dll
+c:\Projects\UltimateTicTacToeCodeGame\UltimateTicTacToe\bin\Debug\netstandard2.0\UltimateTicTacToe.pdb
+c:\Projects\UltimateTicTacToeCodeGame\UltimateTicTacToe\obj\Debug\netstandard2.0\UltimateTicTacToe.csprojAssemblyReference.cache
+c:\Projects\UltimateTicTacToeCodeGame\UltimateTicTacToe\obj\Debug\netstandard2.0\UltimateTicTacToe.AssemblyInfoInputs.cache
+c:\Projects\UltimateTicTacToeCodeGame\UltimateTicTacToe\obj\Debug\netstandard2.0\UltimateTicTacToe.AssemblyInfo.cs
+c:\Projects\UltimateTicTacToeCodeGame\UltimateTicTacToe\obj\Debug\netstandard2.0\UltimateTicTacToe.dll
+c:\Projects\UltimateTicTacToeCodeGame\UltimateTicTacToe\obj\Debug\netstandard2.0\UltimateTicTacToe.pdb
